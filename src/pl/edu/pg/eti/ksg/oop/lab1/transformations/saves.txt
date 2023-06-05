@@ -1,0 +1,10 @@
+Human 6 6
+Wolf 5 11
+Wolf 2 10
+Grass 9 2
+Grass 8 1
+Grass 7 0
+Guarana 5 2
+Guarana 4 1
+Guarana 6 1
+Guarana 4 0
